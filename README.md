@@ -18,31 +18,33 @@ Bill of Materials:<br>
 * Custom PCB: $0 (I have a coupon)
 * 3D printed case: $0 (7$ shipping)
 * Total: $42.72
+<br><br>
 
+PCB Schematic:
+<img width="1218" height="845" alt="Screenshot 2026-05-22 at 11 53 36 AM" src="https://github.com/user-attachments/assets/f930ba54-d9c6-4d30-86fc-d064f526ad72" />
+
+
+PCB Layout:
+<img width="668" height="730" alt="Screenshot 2026-05-22 at 11 58 11 AM" src="https://github.com/user-attachments/assets/31f5f119-a778-4d06-9f6f-d2c1fcd85d67" /> 
 <br>
-Schematic:
-<img width="1218" height="845" alt="Screenshot 2026-05-22 at 11 53 36 AM" src="https://github.com/user-attachments/assets/72b951ca-c47c-48cc-8116-32f3157b6475" />
+<img width="610" height="717" alt="Screenshot 2026-05-22 at 11 58 03 AM" src="https://github.com/user-attachments/assets/cc95c9e3-0a3d-4c54-8afc-0f4e38fbf09a" />
+<br>
+<img width="793" height="825" alt="Screenshot 2026-05-22 at 11 58 47 AM" src="https://github.com/user-attachments/assets/f73fe457-127a-4693-a132-5c5dd022c3fc" />
+<br>
+<img width="758" height="809" alt="Screenshot 2026-05-22 at 11 58 54 AM" src="https://github.com/user-attachments/assets/b67cfecb-5db3-4d56-8b40-47320f2eba5e" />
 <br><br>
 
-PCB:
-<img width="472" height="561" alt="Screenshot 2026-05-22 at 11 54 20 AM" src="https://github.com/user-attachments/assets/11621b0c-2556-4a33-9f27-e49b634d140f" />
-<img width="484" height="577" alt="Screenshot 2026-05-22 at 11 54 32 AM" src="https://github.com/user-attachments/assets/351f7c37-b05a-4950-8533-326e34818304" />
-<img width="670" height="773" alt="Screenshot 2026-05-22 at 11 54 43 AM" src="https://github.com/user-attachments/assets/c2041c0b-2975-472c-b457-1a030cf70080" />
-<img width="660" height="772" alt="Screenshot 2026-05-22 at 11 54 48 AM" src="https://github.com/user-attachments/assets/a5499344-47b2-496a-9ca6-20eea79a91f0" />
-<br><br>
+Macropad Top Case:
+<img width="1269" height="748" alt="Screenshot 2026-05-21 at 2 18 50 PM" src="https://github.com/user-attachments/assets/d62a9b79-68c8-43d0-b26d-041689385004" />
+<br>
 
-Macroboard Top Case:
-<img width="1269" height="748" alt="Screenshot 2026-05-21 at 2 18 50 PM" src="https://github.com/user-attachments/assets/186c49d1-447a-4b62-9b0f-c291e864a50f" />
-<br><br>
+Macropad Bottom Case:
+<img width="1303" height="737" alt="Screenshot 2026-05-21 at 2 06 00 PM" src="https://github.com/user-attachments/assets/0cc211a2-a7d7-4c26-9b8a-9dd3daae2dbe" />
+<br>
 
-Macroboard Bottom Case:
-<img width="1303" height="737" alt="Screenshot 2026-05-21 at 2 06 00 PM" src="https://github.com/user-attachments/assets/1c413bc0-c7a4-4fa3-8d1d-d726639509d4" />
-<br><br>
-
-Macroboard Final Assembly:
-<img width="1143" height="747" alt="Screenshot 2026-05-21 at 2 18 06 PM" src="https://github.com/user-attachments/assets/419f833d-358a-488b-9723-aff48dc374f9" />
-<br><br>
-
+Macropad Final Assembly:
+<img width="1143" height="747" alt="Screenshot 2026-05-21 at 2 18 06 PM" src="https://github.com/user-attachments/assets/8005cc5b-812f-4076-9aa5-1a611c21c318" />
+<br>
 
 
 

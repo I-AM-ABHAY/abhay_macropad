@@ -1,5 +1,5 @@
 # Abhay's Macropad
-My personal macropad for everyday use. 
+My personal macropad for everyday use. <br>
 <br>
 Bill of Materials:<br>
 * 4x M2.5 self-tapping screws: $1.18

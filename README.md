@@ -2,24 +2,47 @@
 My personal macropad for everyday use. 
 <br>
 Bill of Materials:<br>
-<img width="1756" height="1020" alt="Screenshot 2026-04-18 at 7 11 28 PM" src="https://github.com/user-attachments/assets/29d2df25-1f3c-45ac-8e63-908877ec04aa" /> <br>
-<img width="1726" height="86" alt="Screenshot 2026-04-18 at 7 14 00 PM" src="https://github.com/user-attachments/assets/16687044-df10-4db3-a54d-36ca7ef742c7" />
+* 4x M2.5 self-tapping screws: $1.18
+* 4x M3 heat-set inserts: $1.99
+* 4x M3 machine screws: $1.87
+* 1x Seeed Studio XIAO RP2040: $11.73
+* 1x SSD1306 128x32 OLED Display: $2.39
+* 9x Tactile Switch: $6.19
+* 9x Blank White Keycaps: $3.27
+* 9x SOD-123 diodes: $1.53
+* 3x 1206 capacitors: $1.28
+* 1x 0805 resistors: $1.42
+* 1x Bus Buffer Gate: $3.71
+* Shipping: $3.99
+* Tax: 3.17
+* Custom PCB: $0 (I have a coupon)
+* 3D printed case: $0 (7$ shipping)
+* Total: $42.72
+
 <br>
 Schematic:
-<img width="2192" height="1514" alt="Screenshot 2026-04-18 at 4 56 59 PM" src="https://github.com/user-attachments/assets/19230ce0-843c-48a4-8e6c-77a6fb3ea057" />
+<img width="1218" height="845" alt="Screenshot 2026-05-22 at 11 53 36 AM" src="https://github.com/user-attachments/assets/72b951ca-c47c-48cc-8116-32f3157b6475" />
 <br><br>
+
 PCB:
-<img width="657" height="609" alt="Screenshot 2026-04-18 at 5 29 11 PM" src="https://github.com/user-attachments/assets/88832a94-e2d7-437a-a413-1d3890f2061d" />
-<img width="787" height="779" alt="Screenshot 2026-04-18 at 5 29 45 PM" src="https://github.com/user-attachments/assets/3b5c9c55-f862-469f-abae-619c6c3799cb" />
+<img width="472" height="561" alt="Screenshot 2026-05-22 at 11 54 20 AM" src="https://github.com/user-attachments/assets/11621b0c-2556-4a33-9f27-e49b634d140f" />
+<img width="484" height="577" alt="Screenshot 2026-05-22 at 11 54 32 AM" src="https://github.com/user-attachments/assets/351f7c37-b05a-4950-8533-326e34818304" />
+<img width="670" height="773" alt="Screenshot 2026-05-22 at 11 54 43 AM" src="https://github.com/user-attachments/assets/c2041c0b-2975-472c-b457-1a030cf70080" />
+<img width="660" height="772" alt="Screenshot 2026-05-22 at 11 54 48 AM" src="https://github.com/user-attachments/assets/a5499344-47b2-496a-9ca6-20eea79a91f0" />
 <br><br>
-Macroboard Top Case CAD:
-<img width="1261" height="742" alt="Screenshot 2026-04-18 at 4 44 52 PM" src="https://github.com/user-attachments/assets/fc6e4b70-89f9-4527-90d4-4549c82ab1c3" />
+
+Macroboard Top Case:
+<img width="1269" height="748" alt="Screenshot 2026-05-21 at 2 18 50 PM" src="https://github.com/user-attachments/assets/186c49d1-447a-4b62-9b0f-c291e864a50f" />
 <br><br>
-Macroboard Bottom Case CAD:
-<img width="1223" height="743" alt="Screenshot 2026-04-18 at 4 44 58 PM" src="https://github.com/user-attachments/assets/5530967e-82f3-4b8a-ae6f-91f03408cbc0" />
+
+Macroboard Bottom Case:
+<img width="1303" height="737" alt="Screenshot 2026-05-21 at 2 06 00 PM" src="https://github.com/user-attachments/assets/1c413bc0-c7a4-4fa3-8d1d-d726639509d4" />
 <br><br>
+
 Macroboard Final Assembly:
-<img width="1119" height="745" alt="Screenshot 2026-04-18 at 4 44 46 PM" src="https://github.com/user-attachments/assets/67bd3eee-8c66-40ae-a064-766dcad660d5" />
+<img width="1143" height="747" alt="Screenshot 2026-05-21 at 2 18 06 PM" src="https://github.com/user-attachments/assets/419f833d-358a-488b-9723-aff48dc374f9" />
+<br><br>
+
 
 
 

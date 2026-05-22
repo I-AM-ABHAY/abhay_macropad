@@ -21,13 +21,13 @@ Bill of Materials:<br>
 <br><br>
 
 PCB Schematic:
-<img width="1218" height="845" alt="Screenshot 2026-05-22 at 11 53 36 AM" src="https://github.com/user-attachments/assets/f930ba54-d9c6-4d30-86fc-d064f526ad72" />
+<img width="1218" height="845" alt="Screenshot 2026-05-22 at 11 53 36 AM" src="https://github.com/user-attachments/assets/99af8c51-ac7a-4304-9d4a-8436aaa788d5" />
 <br>
-
 
 PCB Layout:
-<img width="657" height="699" alt="Screenshot 2026-05-22 at 11 58 11 AM" src="https://github.com/user-attachments/assets/844f044a-914b-42f8-810d-42af85a2fcc9" />
 <br>
+<img width="657" height="699" alt="Screenshot 2026-05-22 at 11 58 11 AM" src="https://github.com/user-attachments/assets/328ff3c0-f032-4cd9-9bdf-712b986e7b39" />
+
 <img width="610" height="717" alt="Screenshot 2026-05-22 at 11 58 03 AM" src="https://github.com/user-attachments/assets/cc95c9e3-0a3d-4c54-8afc-0f4e38fbf09a" />
 <br>
 <img width="793" height="825" alt="Screenshot 2026-05-22 at 11 58 47 AM" src="https://github.com/user-attachments/assets/f73fe457-127a-4693-a132-5c5dd022c3fc" />

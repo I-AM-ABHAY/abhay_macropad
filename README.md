@@ -15,36 +15,37 @@ Bill of Materials:<br>
 * 1x Bus Buffer Gate: $3.71
 * Shipping: $3.99
 * Tax: 3.17
-* Custom PCB: $0 (I have a coupon)
+* Custom PCB: $3.30 
 * 3D printed case [ PRINTING LEGION ]: $0 ($7 shipping)
-* Total: $42.72
+* Total: $47.02
+* Total w/ shipping: $54.02
 <br><br>
 
 PCB Schematic:
-<img width="1218" height="845" alt="Screenshot 2026-05-22 at 11 53 36 AM" src="https://github.com/user-attachments/assets/99af8c51-ac7a-4304-9d4a-8436aaa788d5" />
-<br>
+<img width="1111" height="766" alt="Screenshot 2026-05-30 at 1 08 15 PM" src="https://github.com/user-attachments/assets/beb7da32-ae61-4d79-a0b3-4b0914cb1c65" />
+<b><b>
 
 PCB Layout:
 <br>
-<img width="657" height="699" alt="Screenshot 2026-05-22 at 11 58 11 AM" src="https://github.com/user-attachments/assets/328ff3c0-f032-4cd9-9bdf-712b986e7b39" />
-
-<img width="610" height="717" alt="Screenshot 2026-05-22 at 11 58 03 AM" src="https://github.com/user-attachments/assets/cc95c9e3-0a3d-4c54-8afc-0f4e38fbf09a" />
+<img width="551" height="705" alt="Screenshot 2026-05-30 at 1 09 48 PM" src="https://github.com/user-attachments/assets/89970a38-5614-4b70-9b8f-940090b118bb" />
 <br>
-<img width="793" height="825" alt="Screenshot 2026-05-22 at 11 58 47 AM" src="https://github.com/user-attachments/assets/f73fe457-127a-4693-a132-5c5dd022c3fc" />
+<img width="562" height="717" alt="Screenshot 2026-05-30 at 1 09 56 PM" src="https://github.com/user-attachments/assets/f59e8334-e26c-445c-9074-819d9fdac9b6" />
 <br>
-<img width="758" height="809" alt="Screenshot 2026-05-22 at 11 58 54 AM" src="https://github.com/user-attachments/assets/b67cfecb-5db3-4d56-8b40-47320f2eba5e" />
-<br><br>
+<img width="615" height="795" alt="Screenshot 2026-05-30 at 1 13 03 PM" src="https://github.com/user-attachments/assets/887355fc-76f0-4b2d-b3c0-cb232417b931" />
+<br>
+<img width="621" height="813" alt="Screenshot 2026-05-30 at 1 12 20 PM" src="https://github.com/user-attachments/assets/59b7b9d5-78b6-487a-a175-b050e69d342e" />
+<br><b>
 
 Macropad Top Case:
-<img width="1269" height="748" alt="Screenshot 2026-05-21 at 2 18 50 PM" src="https://github.com/user-attachments/assets/d62a9b79-68c8-43d0-b26d-041689385004" />
+<img width="1280" height="747" alt="Screenshot 2026-05-30 at 1 27 54 PM" src="https://github.com/user-attachments/assets/002a4821-4879-42cb-bb5f-f82fa8b1d3f6" />
 <br>
 
 Macropad Bottom Case:
-<img width="1303" height="737" alt="Screenshot 2026-05-21 at 2 06 00 PM" src="https://github.com/user-attachments/assets/0cc211a2-a7d7-4c26-9b8a-9dd3daae2dbe" />
+<img width="1254" height="747" alt="Screenshot 2026-05-30 at 1 28 00 PM" src="https://github.com/user-attachments/assets/8edade4d-c812-418e-8e60-71f0f8ddabbf" />
 <br>
 
 Macropad Final Assembly:
-<img width="1143" height="747" alt="Screenshot 2026-05-21 at 2 18 06 PM" src="https://github.com/user-attachments/assets/8005cc5b-812f-4076-9aa5-1a611c21c318" />
+<img width="1288" height="758" alt="Screenshot 2026-05-30 at 1 28 06 PM" src="https://github.com/user-attachments/assets/f15dbfba-78fc-43b4-a68e-da9a92bb190d" />
 <br>
 
 

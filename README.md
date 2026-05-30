@@ -29,8 +29,9 @@ Bill of Materials:
 * Tax: 3.17
 * Custom PCB: $3.30 
 * 3D printed case [ PRINTING LEGION ]: $0 ($7 shipping)
-  Total: $47.02
-  Total w/ printing legion shipping: $54.02
+
+Total: $47.02<br>
+Total w/ printing legion shipping: $54.02
 <br><br>
 
 PCB Schematic:

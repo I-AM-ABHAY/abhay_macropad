@@ -57,6 +57,8 @@ Features 9 keys with per-key underglow LEDs, a 128×32 SSD1306 OLED display, and
 
 </div>
 
+<div align="center">
+
 <br>
 
 **Shipping:** $3.99  
@@ -69,6 +71,9 @@ Features 9 keys with per-key underglow LEDs, a 128×32 SSD1306 OLED display, and
 **Total w/ Shipping:** $54.02
 
 <br><br>
+
+<div align="left">
+
 
 ### PCB Schematic
 

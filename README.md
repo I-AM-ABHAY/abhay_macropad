@@ -33,15 +33,11 @@ Features 9 keys with per-key underglow LEDs, a 128×32 SSD1306 OLED display, and
 
 <br><br>
 
-<div align="center">
-
 ### Bill of Materials
 
-<div align="center">
-
-</div>
-
 <br>
+
+<div align="center">
 
 | Qty | Component | Cost |
 |:---:|-----------|------:|
@@ -59,24 +55,22 @@ Features 9 keys with per-key underglow LEDs, a 128×32 SSD1306 OLED display, and
 | 1x | Custom PCB | $3.30 |
 | 1x | 3D Printed Case (Printing Legion) | $0 |
 
+</div>
+
 <br>
 
-**Shipping:** $3.99 
+**Shipping:** $3.99  
 <br>
-**Tax:** $3.17
+**Tax:** $3.17  
 
 <br>
 
 **Total Cost:** $47.02  
 **Total w/ Shipping:** $54.02
 
-<br><br><br><br>
-
-<div>
+<br><br>
 
 ### PCB Schematic
-
-</div>
 
 <br>
 
@@ -84,13 +78,11 @@ Features 9 keys with per-key underglow LEDs, a 128×32 SSD1306 OLED display, and
 
 <br><br>
 
-<div>
-
 ### PCB Layout
 
-</div>
-
 <br>
+
+<div align="center">
 
 **Top Layer**
 
@@ -118,15 +110,15 @@ Features 9 keys with per-key underglow LEDs, a 128×32 SSD1306 OLED display, and
 
 <img width="1100" alt="PCB 3D View 2" src="https://github.com/user-attachments/assets/8f7200e7-3fa3-4398-a5e5-5bcba1195b80" />
 
-<br><br>
-
-<div>
-
-### Enclosure Design
-
 </div>
 
+<br><br>
+
+### Case Design
+
 <br>
+
+<div align="center">
 
 **Top Case**
 
@@ -142,22 +134,24 @@ Features 9 keys with per-key underglow LEDs, a 128×32 SSD1306 OLED display, and
 
 <img width="1100" alt="Bottom Case" src="https://github.com/user-attachments/assets/dbd20fa5-8ca8-4ce6-af3b-f1c93db07eb4" />
 
-<br><br>
+</div>
 
-<div>
+<br><br>
 
 ### Final Assembly
 
-</div>
-
 <br>
 
+<div align="center">
+
 <img width="1100" alt="Final Assembly" src="https://github.com/user-attachments/assets/6f29e158-8f8e-426c-830c-c94fb2ee9b58" />
+
+</div>
 
 <br><br>
 
 <div align="center">
 
-### Designed and Built by Abhay P.
+*Designed and Built by Abhay P.*
 
 </div>

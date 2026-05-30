@@ -2,7 +2,7 @@
 <br>
 My personal macropad for everyday use. 
 <br><br>
-Features 6 keys with per-key underglow LEDs, a 128×32 SSD1306 OLED display, and is powered by a Seeed Studio XIAO RP2040 microcontroller.
+Features 6 keys with per-key underglow LEDs, a 128×32 SSD1306 OLED display, a rotary encoder, and is powered by a Seeed Studio XIAO RP2040 microcontroller.
 <br><br>
 
 ### SPONSORED BY: <br><br>

@@ -108,7 +108,7 @@ I uploaded all of my files to my github repo and created README for final submis
 
 ---
 
-# Project Statistics
+# Total Project Statistics
 
 | Category | Time Logged |
 |----------|------------:|

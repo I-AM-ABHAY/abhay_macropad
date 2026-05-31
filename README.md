@@ -68,7 +68,7 @@ Features 9 keys with per-key underglow LEDs, a 128×32 SSD1306 OLED display, and
 <br>
 
 **Total Cost:** $47.02  
-**Total w/ Shipping:** $54.02
+**Total w/ Printing Legion Shipping:** $54.02
 
 <br><br>
 

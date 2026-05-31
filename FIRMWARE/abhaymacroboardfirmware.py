@@ -1,85 +1,98 @@
 import board
+
 from kmk.kmk_keyboard import KMKKeyboard
 from kmk.keys import KC
+from kmk.scanners import DiodeOrientation
+
 from kmk.extensions.neopixel import NeoPixel
-from kmk.extensions.oled import Oled, OledDisplayMode
-from kmk.modules.tapdance import TapDance
-from kmk.modules.macros import Tap, Delay
+from kmk.extensions.oled import Oled
+
+from kmk.modules.encoder import EncoderHandler
 
 keyboard = KMKKeyboard()
 
-# --------------------
-# KEY PINS
-# --------------------
-keyboard.col_pins = (
-    board.GP26,  # KEY 1
-    board.GP27,  # KEY 2
-    board.GP28,  # KEY 3
-    board.GP29,  # KEY 4
-    board.GP6,   # KEY 5
-    board.GP7,   # KEY 6
-)
-keyboard.row_pins = ()
-keyboard.diode_orientation = None
+# ============================================================
+# MATRIX (3x3)
+# ============================================================
 
-# --------------------
+keyboard.col_pins = (
+    board.GP26,
+    board.GP27,
+    board.GP28,
+)
+
+keyboard.row_pins = (
+    board.GP4,
+    board.GP2,
+    board.GP1,
+)
+
+keyboard.diode_orientation = DiodeOrientation.COL2ROW
+
+# ============================================================
 # OLED
-# --------------------
+# ============================================================
+
 oled = Oled(
     sda=board.GP6,
     scl=board.GP7,
     i2c_addr=0x3C,
     width=128,
     height=32,
-    display_mode=OledDisplayMode.TXT,
 )
+
 keyboard.extensions.append(oled)
 
-# --------------------
-# RGB (6 LEDs total)
-# --------------------
+# ============================================================
+# RGB LEDs (9 LEDs @ 50% brightness)
+# ============================================================
+
 rgb = NeoPixel(
     pin=board.GP3,
-    num_pixels=6,
-    brightness=0.3,  # lower brightness = cleaner underglow + safer power draw
+    num_pixels=9,
+    brightness=0.5,
     auto_write=True,
 )
+
 keyboard.extensions.append(rgb)
 
-# Set constant white underglow
+# White LEDs
 rgb.fill((255, 255, 255))
 
-# --------------------
-# CHROME TAP DANCE
-# --------------------
-OPEN_CHROME_SCHOOL = KC.MACRO(
-    Tap(KC.LGUI, KC.SPACE), Delay(200), "CHROME", Tap(KC.ENTER), Delay(600),
-    *([Tap(KC.TAB)] * 10)
+# ============================================================
+# ROTARY ENCODER
+# ============================================================
+
+encoder_handler = EncoderHandler()
+keyboard.modules.append(encoder_handler)
+
+encoder_handler.pins = (
+    (board.GP29, board.GP0, None),
 )
 
-OPEN_CHROME_PERSONAL = KC.MACRO(
-    Tap(KC.LGUI, KC.SPACE), Delay(200), "CHROME", Tap(KC.ENTER), Delay(600),
-    *([Tap(KC.TAB)] * 7)
-)
+# Counter-clockwise = screen brightness down
+# Clockwise = screen brightness up
+encoder_handler.map = [
+    (
+        (KC.BRIGHTNESS_DOWN, KC.BRIGHTNESS_UP, KC.NO),
+    ),
+]
 
-CHROME_SELECTOR = KC.TD(
-    OPEN_CHROME_SCHOOL,    # 1 Tap → School
-    OPEN_CHROME_PERSONAL   # 2 Taps → Personal
-)
-
-# --------------------
+# ============================================================
 # KEYMAP
-# --------------------
+# ============================================================
+
 keyboard.keymap = [
     [
-        KC.LGUI(KC.LSHIFT(KC.N4)),              # 1: Screenshot
-        CHROME_SELECTOR,                       # 2: Chrome selector
-        KC.LGUI(KC.LSHIFT(KC.T)),              # 3: Reopen Tab
-        KC.LGUI(KC.LALT(KC.ESC)),              # 4: Force Quit
-        KC.LCTRL(KC.LGUI(KC.Q)),               # 5: Lock Screen
-        KC.LGUI(KC.LSHIFT(KC.N4), KC.SPACE),   # 6: Screenshot Whole Screen
+        KC.N1, KC.N2, KC.N3,
+        KC.N4, KC.N5, KC.N6,
+        KC.N7, KC.N8, KC.N9,
     ]
 ]
+
+# ============================================================
+# START
+# ============================================================
 
 if __name__ == "__main__":
     keyboard.go()

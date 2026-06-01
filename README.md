@@ -92,7 +92,7 @@ Features 9 keys with per-key underglow LEDs, a 128×32 SSD1306 OLED display, and
 
 <br>
 
-<img width="1100" alt="PCB Top Layer" src="https://github.com/user-attachments/assets/267430a9-f54d-4cb8-b099-588839f6c9e1" />
+<img width="1175" height="756" alt="Screenshot 2026-06-01 at 11 15 06 AM" src="https://github.com/user-attachments/assets/d85c0cea-03e6-4402-98e3-65c6d87fa673" />
 
 <br><br>
 
@@ -100,7 +100,8 @@ Features 9 keys with per-key underglow LEDs, a 128×32 SSD1306 OLED display, and
 
 <br>
 
-<img width="1100" alt="PCB Bottom Layer" src="https://github.com/user-attachments/assets/f2ded57b-2177-48fc-b90b-760e255e45ca" />
+<img width="1175" height="756" alt="Screenshot 2026-06-01 at 11 15 21 AM" src="https://github.com/user-attachments/assets/ad429a1c-5c83-4774-8954-99365ca944a2" />
+
 
 <br><br>
 
@@ -108,11 +109,12 @@ Features 9 keys with per-key underglow LEDs, a 128×32 SSD1306 OLED display, and
 
 <br>
 
-<img width="1100" alt="PCB 3D View 1" src="https://github.com/user-attachments/assets/c88ece6e-7955-4566-85ca-3abb4439fe6e" />
+<img width="1175" height="756" alt="Screenshot 2026-06-01 at 11 15 37 AM" src="https://github.com/user-attachments/assets/df1a6967-1593-4b63-931e-8afa5ce2f44a" />
+
 
 <br><br>
 
-<img width="1100" alt="PCB 3D View 2" src="https://github.com/user-attachments/assets/8f7200e7-3fa3-4398-a5e5-5bcba1195b80" />
+<img width="1175" height="756" alt="Screenshot 2026-06-01 at 11 15 42 AM" src="https://github.com/user-attachments/assets/5f376fa6-c6d9-4211-bb25-d7d99779e78b" />
 
 </div>
 

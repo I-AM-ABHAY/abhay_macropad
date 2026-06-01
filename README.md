@@ -31,7 +31,9 @@ Features 9 keys with per-key underglow LEDs, a 128×32 SSD1306 OLED display, and
 
 </div>
 
-<br><br>
+<br><br><br><br><br>
+
+<div align="center">
 
 ### Bill of Materials
 
@@ -41,19 +43,25 @@ Features 9 keys with per-key underglow LEDs, a 128×32 SSD1306 OLED display, and
 
 | Qty | Component | Cost |
 |:---:|-----------|------:|
-| 4x | M2.5 Self-Tapping Screws | $1.18 |
+| 4x | M2.5 Self-Tapping Screws | $1.97 |
 | 4x | M3 Heat-Set Inserts | $1.99 |
 | 4x | M3 Machine Screws | $1.87 |
 | 1x | Seeed Studio XIAO RP2040 | $11.73 |
 | 1x | SSD1306 128×32 OLED Display | $2.39 |
-| 9x | Tactile Switches | $6.19 |
-| 9x | Blank White Keycaps | $3.27 |
+| 9x | Tactile Switches | $3.51 |
+| 9x | Blank White Keycaps | $3.25 |
 | 9x | SOD-123 Diodes | $1.53 |
-| 3x | 1206 Capacitors | $1.28 |
+| 3x | 1206 Capacitors | $1.27 |
 | 1x | 0805 Resistor | $1.42 |
-| 1x | Bus Buffer Gate | $3.71 |
+| 1x | Bus Buffer Gate | $1.51 |
+| 1x | Flux | $1.41 |
 | 1x | Custom PCB | $3.30 |
-| 1x | 3D Printed Case (Printing Legion) | $0 |
+| 1x | 3D Printed Case (Printing Legion) | $0.00 |
+|  | **Parts Subtotal** | **$35.16** |
+|  | Fees | $4.01 |
+|  | Tax | $2.96 |
+|  | **Grand Total** | **$42.13** |
+
 
 </div>
 
@@ -70,7 +78,7 @@ Features 9 keys with per-key underglow LEDs, a 128×32 SSD1306 OLED display, and
 **Total Parts Cost:** $47.02  
 **Total w/ Printing Legion Shipping:** $54.02
 
-<br><br>
+<br><br><br><br><br>
 
 <div align="left">
   

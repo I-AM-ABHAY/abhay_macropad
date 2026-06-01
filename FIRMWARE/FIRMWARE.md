@@ -1,4 +1,4 @@
-# Abhay’s Macropad Firmware Documentation (Version 1)
+# Macropad Firmware Documentation 
 
 ## Overview
 

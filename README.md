@@ -51,7 +51,7 @@ Features 9 keys with per-key underglow LEDs, a 128×32 SSD1306 OLED display, and
 | 9x | [Tactile Switches](https://www.aliexpress.us/item/3256808352947766.html) | $3.51 |
 | 9x | [Blank White Keycaps](https://www.aliexpress.us/item/3256809017491500.html) | $3.25 |
 | 9x | [SOD-123 Diodes](https://www.aliexpress.us/item/3256805388348871.html) | $1.53 |
-| 3x | [1206 Capacitors](https://www.aliexpress.us/item/3256807177349573.html) | $1.27 |
+| 13x | [1206 Capacitors](https://www.aliexpress.us/item/3256807177349573.html) | $1.27 |
 | 1x | [0805 Resistor](https://www.aliexpress.us/item/3256809618872827.html) | $1.42 |
 | 1x | [Bus Buffer Gate](https://www.aliexpress.us/item/3256807066238250.html) | $1.51 |
 | 1x | [Soldering Wire](https://www.aliexpress.us/item/3256806675545472.html) | $1.41 |
@@ -78,7 +78,7 @@ Features 9 keys with per-key underglow LEDs, a 128×32 SSD1306 OLED display, and
 
 <br>
 
-<img width="1100" alt="PCB Schematic" src="https://github.com/user-attachments/assets/147b6c05-4dff-4454-805b-16bef076c9a8" />
+<img width="1174" height="756" alt="Screenshot 2026-06-03 at 3 56 40 PM" src="https://github.com/user-attachments/assets/84d5e6f6-bc68-4696-9bf2-55463eafb704" />
 
 <br><br>
 
@@ -92,8 +92,7 @@ Features 9 keys with per-key underglow LEDs, a 128×32 SSD1306 OLED display, and
 
 <br>
 
-<img width="1175" height="756" alt="Screenshot 2026-06-01 at 11 23 31 AM" src="https://github.com/user-attachments/assets/b2aef828-5f7e-4aba-8eec-62108f495791" />
-
+<img width="1174" height="756" alt="Screenshot 2026-06-03 at 3 58 07 PM" src="https://github.com/user-attachments/assets/5a473387-f7bd-456e-a81d-29fa5403ae7b" />
 
 <br><br>
 
@@ -101,19 +100,18 @@ Features 9 keys with per-key underglow LEDs, a 128×32 SSD1306 OLED display, and
 
 <br>
 
-<img width="1175" height="756" alt="Screenshot 2026-06-01 at 11 23 26 AM" src="https://github.com/user-attachments/assets/9cf7e887-293a-4087-8d41-fbafbe9cf72a" />
-
+<img width="1174" height="756" alt="Screenshot 2026-06-03 at 3 58 12 PM" src="https://github.com/user-attachments/assets/4c446302-3d2a-4ad2-8bbc-56ff61f21535" />
 <br><br>
 
 **3D View**
 
 <br>
 
-<img width="1174" height="756" alt="Screenshot 2026-06-01 at 11 56 22 AM" src="https://github.com/user-attachments/assets/1ca705a8-4b4e-4749-a94e-b88fcd5ded6c" />
+<img width="1174" height="756" alt="Screenshot 2026-06-03 at 3 54 30 PM" src="https://github.com/user-attachments/assets/c916cb18-0d36-424a-a20a-6ec8f9fae2d4" />
 
 <br><br>
 
-<img width="1174" height="756" alt="Screenshot 2026-06-01 at 11 56 36 AM" src="https://github.com/user-attachments/assets/24779645-d7d3-447b-bc85-5c166e5c1bfd" />
+<img width="1174" height="756" alt="Screenshot 2026-06-03 at 3 54 39 PM" src="https://github.com/user-attachments/assets/1b856d5e-8b90-47db-868e-1885134b6aaa" />
 
 </div>
 

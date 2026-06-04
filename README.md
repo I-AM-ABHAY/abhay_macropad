@@ -10,7 +10,7 @@ Features 9 keys with per-key underglow LEDs, a 128×32 SSD1306 OLED display, and
 
 <br><br>
 
-<img width="1087" height="777" alt="Screenshot 2026-06-04 at 2 06 35 PM" src="https://github.com/user-attachments/assets/267ae66c-5b17-4de6-8511-b7de1e31973c" />
+<img width="1084" height="736" alt="Screenshot 2026-06-04 at 2 06 35 PM" src="https://github.com/user-attachments/assets/ffc29576-9427-4b6c-a5a1-be138a18416c" />
 
 <br><br>
 

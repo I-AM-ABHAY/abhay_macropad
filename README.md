@@ -5,12 +5,16 @@
 ### Custom 9-Key Macropad
 
 Custom designed macropad for everyday use.
-
-Features 9 keys with per-key underglow LEDs, a 128×32 SSD1306 OLED display, and a rotary encoder.
-
+<br><br>
 <br><br>
 
-<img width="1084" height="736" alt="Screenshot 2026-06-04 at 2 06 35 PM" src="https://github.com/user-attachments/assets/ffc29576-9427-4b6c-a5a1-be138a18416c" />
+<p align="center">
+  <img width="450" src="https://github.com/user-attachments/assets/ec68ab25-cfd2-4eef-8021-358b5592e6cd" />
+  <img width="450" src="https://github.com/user-attachments/assets/1bc5be3e-86eb-4403-a46f-62c2c40e2807" />
+</p>
+
+
+<br><br>
 
 <br><br>
 

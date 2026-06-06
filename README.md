@@ -8,10 +8,7 @@ Custom designed macropad for everyday use.
 <br><br>
 <br><br>
 
-<p align="center">
-  <img width="800" src="https://github.com/user-attachments/assets/ec68ab25-cfd2-4eef-8021-358b5592e6cd" />
-  <img width="800" src="https://github.com/user-attachments/assets/1bc5be3e-86eb-4403-a46f-62c2c40e2807" />
-</p>
+<img width="2174" height="1554" alt="Screenshot 2026-06-06 at 6 44 01 PM" src="https://github.com/user-attachments/assets/077afe3c-2613-4b9c-a214-4de8e004e94e" />
 
 
 <br><br>

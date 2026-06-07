@@ -12,8 +12,6 @@ Custom designed macropad for everyday use.
 
 <br><br>
 
-<br><br>
-
 | ⚡ RP2040 MC | ⌨️ 9 Keys | ✨ Underlit Keys | 📺 .91" OLED Screen | 🎛️ 1 Rotary Encoder |
 |:--:|:--:|:--:|:--:|:--:|
 

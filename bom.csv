@@ -1,0 +1,15 @@
+Item,Quantity,Description,Value/Part,Footprint/Package,Designators,Manufacturer Part Number,Supplier,Unit Cost (USD),Extended Cost (USD),Notes
+1,4,Self-Tapping Screw,M2.5 Self-Tapping Screw,Mechanical,SCREW1-SCREW4,TBD,AliExpress,0.4925,1.97,Case mounting hardware
+2,4,Heat-Set Insert,M3 Heat-Set Insert,Mechanical,INS1-INS4,TBD,AliExpress,0.4975,1.99,For threaded enclosure assembly
+3,4,Machine Screw,M3 Machine Screw,Mechanical,MS1-MS4,TBD,AliExpress,0.4675,1.87,Used with heat-set inserts
+4,1,Microcontroller Module,Seeed Studio XIAO RP2040,Module,U1,XIAO-RP2040,Seeed Studio / AliExpress,11.73,11.73,Main controller
+5,1,OLED Display,SSD1306 128x32 OLED Display,Module,DISP1,SSD1306-128X32,AliExpress,2.39,2.39,Display module
+6,9,Tactile Switch,Tactile Push Button Switch,THT/SMD,SW1-SW9,TBD,AliExpress,0.39,3.51,Key switches
+7,9,Keycap,Blank White Keycap,Mechanical,KC1-KC9,TBD,AliExpress,0.361,3.25,For switches
+8,9,Diode,SOD-123 Diode,SOD-123,D1-D9,TBD,AliExpress,0.17,1.53,Keyboard matrix diodes
+9,13,Capacitor,Ceramic Capacitor,1206,C1-C13,TBD,AliExpress,0.0977,1.27,Decoupling/filter capacitors
+10,1,Resistor,0805 Resistor,0805,R1,TBD,AliExpress,1.42,1.42,Pull-up/pull-down resistor
+11,1,Bus Buffer Gate,Logic Buffer IC,TBD,U2,TBD,AliExpress,1.51,1.51,Signal buffering
+12,1,Solder Wire,Soldering Wire,N/A,TOOL1,N/A,AliExpress,1.41,1.41,Assembly consumable
+13,1,Printed Circuit Board,Custom PCB,PCB,PCB1,Custom,JLCPCB,3.30,3.30,Fabricated PCB
+14,1,Enclosure,3D Printed Case,Mechanical,CASE1,Custom,Printing Legion,0.00,0.00,Printed enclosure

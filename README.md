@@ -5,7 +5,7 @@
 
 <br>
 
-<img width="2484" height="1844" alt="Screenshot 2026-06-07 at 8 55 42 PM" src="https://github.com/user-attachments/assets/bc675fa9-7fe3-48b3-af67-a649ee838dfe" />
+<img width="1826" height="1326" alt="ss" src="https://github.com/user-attachments/assets/dbe78100-ad10-455c-a2ca-eae9f3b8c0f1" />
 
 
 <br><br>

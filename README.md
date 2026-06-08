@@ -7,7 +7,7 @@
 <img width="2484" height="1844" alt="Screenshot 2026-06-07 at 8 55 42 PM" src="https://github.com/user-attachments/assets/bc675fa9-7fe3-48b3-af67-a649ee838dfe" />
 
 
-<br>
+<br><br>
 
 | ⚡ RP2040 MC | ⌨️ 9 Keys | ✨ Underlit Keys | 📺 .91" OLED Screen | 🎛️ 1 Rotary Encoder |
 |:--:|:--:|:--:|:--:|:--:|

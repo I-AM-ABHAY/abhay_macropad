@@ -37,32 +37,31 @@
 
 <div align="center">
 
-| Qty | Component | Cost |
-|:---:|-----------|------|
-| 4x | [M2.5 Self-Tapping Screws](https://www.aliexpress.us/item/3256805544601650.html) | $1.97 |
-| 4x | [M3 Heat-Set Inserts](https://www.aliexpress.us/item/3256808480358197.html) | $1.99 |
-| 4x | [M3 Machine Screws](https://www.aliexpress.us/item/2255800784679048.html) | $1.87 |
-| 1x | [Seeed Studio XIAO RP2040](https://www.aliexpress.us/item/3256807240972277.html) | $11.73 |
-| 1x | [SSD1306 128×32 OLED Display](https://www.aliexpress.us/item/3256805115814136.html) | $2.39 |
-| 9x | [Tactile Switches](https://www.aliexpress.us/item/3256808352947766.html) | $3.51 |
-| 9x | [Blank White Keycaps](https://www.aliexpress.us/item/3256809017491500.html) | $3.25 |
-| 9x | [SOD-123 Diodes](https://www.aliexpress.us/item/3256805388348871.html) | $1.53 |
-| 13x | [1206 Capacitors](https://www.aliexpress.us/item/3256807177349573.html) | $1.27 |
-| 1x | [0805 Resistor](https://www.aliexpress.us/item/3256809618872827.html) | $1.42 |
-| 1x | [Bus Buffer Gate](https://www.aliexpress.us/item/3256807066238250.html) | $1.51 |
-| 1x | [Soldering Wire](https://www.aliexpress.us/item/3256806675545472.html) | $1.41 |
-| 1x | [Custom PCB](https://jlcpcb.com/) | $3.30 |
-| 1x | 3D Printed Case (Printing Legion) | $0.00 |
+| Qty | Component                                                                           | Cost  |
+| :-: | ----------------------------------------------------------------------------------- | ----- |
+|  4x | [M2.5 Self-Tapping Screws](https://www.aliexpress.us/item/3256805544601650.html)    | $1.97 |
+|  4x | [M3 Heat-Set Inserts](https://www.aliexpress.us/item/3256808480358197.html)         | $1.99 |
+|  4x | [M3 Machine Screws](https://www.aliexpress.us/item/2255800784679048.html)           | $1.87 |
+|  1x | [Seeed Studio XIAO RP2040](https://www.aliexpress.us/item/3256808014602728.html)    | $7.60 |
+|  1x | [SSD1306 128×32 OLED Display](https://www.aliexpress.us/item/3256805115814136.html) | $2.39 |
+|  9x | [Tactile Switches](https://www.aliexpress.us/item/3256808352947766.html)            | $3.51 |
+|  9x | [Blank White Keycaps](https://www.aliexpress.us/item/3256809017491500.html)         | $3.25 |
+|  9x | [SOD-123 Diodes](https://www.aliexpress.us/item/3256805388348871.html)              | $1.53 |
+| 13x | [1206 Capacitors](https://www.aliexpress.us/item/3256807177349573.html)             | $1.27 |
+|  1x | [0805 Resistor](https://www.aliexpress.us/item/3256809618872827.html)               | $1.42 |
+|  1x | [Bus Buffer Gate](https://www.aliexpress.us/item/3256807066238250.html)             | $1.51 |
+|  1x | [Soldering Wire](https://www.aliexpress.us/item/3256806675545472.html)              | $1.41 |
+|  1x | [Custom PCB](https://jlcpcb.com/)                                                   | $3.30 |
+|  1x | 3D Printed Case (Printing Legion)                                                   | $0.00 |
+
 
 <br>
 
-**Parts Subtotal:** $35.16
+**Parts Subtotal:** $33.02
 
-**Fees:** $4.01
+**Fees / Tax / Shipping:** $9.55
 
-**Tax:** $2.96
-
-**Grand Total:** $42.13
+**Grand Total:** $42.57
 
 <br><br><br><br><br>
 

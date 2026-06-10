@@ -10,7 +10,7 @@
 
 <br><br>
 
-| ⚡ RP2040 MC | ⌨️ 9 Keys | ✨ Underlit Keys | 📺 .91" OLED Screen | 🎛️ 1 Rotary Encoder |
+| ⚡ RP2040 MCU | ⌨️ 9 Keys | ✨ Underlit Keys | 📺 .91" OLED Screen | 🎛️ 1 Rotary Encoder |
 |:--:|:--:|:--:|:--:|:--:|
 
 </div>
